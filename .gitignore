@@ -1,2 +1,8 @@
 .venv
 text_mining/data/Amazon_Unlocked_Mobile.csv
+Projects/store-sales_time_series_forecasting/data/holidays_events.csv
+Projects/store-sales_time_series_forecasting/data/oil.csv
+Projects/store-sales_time_series_forecasting/data/stores.csv
+Projects/store-sales_time_series_forecasting/data/test.csv
+Projects/store-sales_time_series_forecasting/data/train.csv
+Projects/store-sales_time_series_forecasting/data/transactions.csv
